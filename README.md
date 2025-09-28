@@ -54,6 +54,19 @@ medication-reminder/
 
 ---
 
+## 📖 6-Month Healthcare IT Roadmap
+This project is the first in a **6-month Healthcare IT project series**, covering:
+| Month | Project 1 | Project 2 |
+|-------|-----------|-----------|
+| 1     | Patient Record Manager ✅ | Medication Reminder |
+| 2     | Appointment Booking System | Secure Login System |
+| 3     | Healthcare Analytics Dashboard | Vital Signs Tracker |
+| 4     | Medical Image Viewer | Data Privacy Module |
+| 5     | Telehealth Prototype | Doctor-Patient Messaging Portal |
+| 6     | Portfolio Showcase | - |
+
+---
+
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
