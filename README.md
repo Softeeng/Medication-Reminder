@@ -1,10 +1,10 @@
-# Medication Reminder App
+# 💊 Medication Reminder App
 
 A simple desktop application built with **Python** and **Tkinter** that allows you to schedule, track, and get notified about your medications.
 
 ---
 
-## Features
+## 📌 Features
 - Add reminders with:
     - Medication name
     - Dosage (mg)
@@ -17,14 +17,14 @@ A simple desktop application built with **Python** and **Tkinter** that allows y
 
 ---
 
-## Tech stack
+## 🛠 Tech Stack
 - Python
 - Tkinter (GUI)
 - Datetime (time management)
 
 ---
 
-## How to Run
+## 🚀 How to Run
 1. Clone this repository:
 ```bash
 git clone https://github.com/Softeeng/Medication-Reminder.git
@@ -37,13 +37,13 @@ python reminder_app.py
 
 ---
 
-## Requirements
+## 💻 Requirements
 - Python 3.8+
 - Tkinter (comes pre-installed with Python)
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 ```text
 medication-reminder/
 │── reminder_app.py       # Main application
@@ -54,12 +54,12 @@ medication-reminder/
 
 ---
 
-## License
-This project is licensed under the [MIT License] - see the (LICENSE) file for details.
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Future Improvements
+## ✨️ Future Improvements
 - Add recurring reminders (daily/weekly)
 - Sound alerts in addition to popup notifications
 - Mobile version with push notifications
