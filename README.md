@@ -1,6 +1,6 @@
 # 💊 Medication Reminder App
 
-A simple desktop application built with **Python** and **Tkinter** that allows you to schedule, track, and get notified about your medications.
+A simple desktop application built with **Python** and **Tkinter** that allows you to schedule, track, and get notified about your medications. This project is part of a **healthcare IT learning roadmap**, this is project #2 which focuses on building real-world skills in software development and applications.
 
 ---
 
