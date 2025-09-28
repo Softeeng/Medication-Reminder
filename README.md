@@ -46,11 +46,11 @@ python reminder_app.py
 ## 📂 Project Structure
 ```text
 medication-reminder/
-│── reminder_app.py       # Main application
+│── reminder_app.py   # Main application
 │── reminders.json    # Stores saved reminders
 │── README.md         # Documentation
 │── LICENSE           # License file
-│── .gitignore
+│── .gitignore        # Ignore cache and database files
 ```
 
 ---
