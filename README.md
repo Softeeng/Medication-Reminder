@@ -50,6 +50,7 @@ medication-reminder/
 │── reminders.json    # Stores saved reminders
 │── README.md         # Documentation
 │── LICENSE           # License file
+│── .gitignore
 ```
 
 ---
